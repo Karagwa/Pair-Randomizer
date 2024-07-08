@@ -29,11 +29,11 @@ public class Randomizer {
         }
     }
 
-    public void printBoys(){
+    public void printParticipants(){
+        System.out.println("These are the boys:");
         System.out.println(boys);
-
-    }
-    public void printGirls(){
+        System.out.println();
+        System.out.println("These are the boys:");
         System.out.println(girls);
     }
 
