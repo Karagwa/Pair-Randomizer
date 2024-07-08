@@ -9,8 +9,7 @@ public class RandomizerDemo {
         keyboard.nextLine();
         random.setBoys();
         random.setGirls();
-        random.printBoys();
-        random.printGirls();
+        random.printParticipants();
         random.randomize();
     }
 }
